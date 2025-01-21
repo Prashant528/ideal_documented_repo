@@ -1,5 +1,5 @@
 ## How to Contribute
-Thank you for considering contributing to Hypothetical Repo! Contributions help us grow and improve, and we appreciate your interest.
+Thank you for considering contributing to Hypothetical Repo! Contributions help us grow and improve, and we appreciate your interest. Please go through [Readme](./README.md) to get the project overview.
 
 1. **Report Bugs**: Found a bug? Create an issue with details such as steps to reproduce, expected behavior, and any relevant screenshots or logs.
 2. **Submit Enhancements**: Have a feature idea? Propose it in an issue. Be sure to explain the problem it solves and how it improves the project.
