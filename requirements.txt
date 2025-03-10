@@ -113,7 +113,6 @@ torchaudio==2.6.0
 torchvision==0.21.0
 tqdm==4.67.1
 traitlets==5.14.3
--e git+git@github.com:Prashant528/transformers.git@1603018e7aa517623192cc9ff164bbec513b66e4#egg=transformers
 typing-extensions==4.12.2
 tzdata==2025.1
 urllib3==1.26.20
